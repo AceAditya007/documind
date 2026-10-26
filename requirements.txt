@@ -1,0 +1,14 @@
+
+# Backend Framework
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+
+# PDF Processing
+pymupdf
+
+# RAG and LangChain
+langchain
+langchain-chroma
+langchain-ollama
